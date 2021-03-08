@@ -14,7 +14,7 @@
             "program": "C:/Users/HARSHADA/Desktop/std/store/skillfolder/lambda/local-debugger.js",
             "args": [
                 // port number on your local host where the alexa requests will be routed to
-                "--portNumber", "80",
+                "--portNumber", "3001",
                 // name of your nodejs main skill file
                 "--skillEntryFile", "C:/Users/HARSHADA/Desktop/std/store/skillfolder/lambda/index.js",
                 // name of your lambda handler
